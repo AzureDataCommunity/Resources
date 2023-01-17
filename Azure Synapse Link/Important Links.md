@@ -7,9 +7,9 @@ ms.service: azure
 ms.date: 01/17/2023
 ---
 
-# Azure Data Community User Group network Resources
+## Azure Data Community User Group network Resources
 
-### Important Links 
+# Important Links 
 
 ## https://gearup.microsoft.com/product/azure-synapse-link?tab=overview
 
