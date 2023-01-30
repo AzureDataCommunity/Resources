@@ -19,4 +19,7 @@ upload date: 01/30/2023
 ### URL:  https://aka.ms/sqlserver2022demos
 ---
 
+### Bob Ward's SQL Server 2022 Workshop
+### https://github.com/microsoft/sqlworkshops-sql2022workshop
+
 	
